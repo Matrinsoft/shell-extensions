@@ -1,0 +1,15 @@
+{
+  "name": "Workspace Indicator",
+  "description": "Put an indicator on the panel signaling in which workspace you are, and give you the possibility of switching to another one.",
+  "original-authors": [
+    "erick.red@gmail.com"
+  ],
+  "uuid": "@uuid@",
+  "gettext-domain": "@gettext_domain@",
+  "settings-schema": "@gschemaname@",
+  "shell-version": [
+    "@shell_current@"
+  ],
+  "version-name": "@version@",
+  "url": "@url@"
+}

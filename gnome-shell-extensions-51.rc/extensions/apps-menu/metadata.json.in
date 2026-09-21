@@ -1,0 +1,16 @@
+{
+  "name": "Apps Menu",
+  "description": "Add a category-based menu for apps.\nThis extension is part of Classic Mode and is officially supported by GNOME. Please do not report bugs using the form below, use GNOME's GitLab instance instead.",
+  "original-authors": [
+    "e2002@bk.ru",
+    "debarshir@gnome.org"
+  ],
+  "uuid": "@uuid@",
+  "gettext-domain": "@gettext_domain@",
+  "settings-schema": "@gschemaname@",
+  "shell-version": [
+    "@shell_current@"
+  ],
+  "version-name": "@version@",
+  "url": "@url@"
+}

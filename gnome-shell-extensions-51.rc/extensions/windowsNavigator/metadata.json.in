@@ -1,0 +1,13 @@
+{
+  "name": "Window Navigator",
+  "description": "Allow keyboard selection of windows and workspaces in overlay mode. <Ctrl>number selects a workspace, and <Alt>number selects a window.",
+  "original-author": "zaspire@rambler.ru",
+  "uuid": "@uuid@",
+  "gettext-domain": "@gettext_domain@",
+  "settings-schema": "@gschemaname@",
+  "shell-version": [
+    "@shell_current@"
+  ],
+  "version-name": "@version@",
+  "url": "@url@"
+}

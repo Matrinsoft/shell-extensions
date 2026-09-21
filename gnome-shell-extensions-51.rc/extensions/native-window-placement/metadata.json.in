@@ -1,0 +1,15 @@
+{
+  "name": "Native Window Placement",
+  "description": "Arrange windows in overview in a more compact way.",
+  "original-authors": [
+    "wepmaschda@gmx.de"
+  ],
+  "uuid": "@uuid@",
+  "settings-schema": "@gschemaname@",
+  "gettext-domain": "@gettext_domain@",
+  "shell-version": [
+    "@shell_current@"
+  ],
+  "version-name": "@version@",
+  "url": "@url@"
+}

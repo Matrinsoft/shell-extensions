@@ -1,0 +1,12 @@
+{
+  "name": "Removable Drive Menu",
+  "description": "A status menu for accessing and unmounting removable devices.",
+  "uuid": "@uuid@",
+  "gettext-domain": "@gettext_domain@",
+  "settings-schema": "@gschemaname@",
+  "shell-version": [
+    "@shell_current@"
+  ],
+  "version-name": "@version@",
+  "url": "@url@"
+}
